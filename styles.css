@@ -9,12 +9,13 @@ h1 {
 }
 
 .link {
-    color: blue;
+    color: black;
 }
 
 a {
-    color:blue;
+    color:grey;
 }
+
 
 .index-header {
     width: 50%;
@@ -36,3 +37,4 @@ a {
     color:white;
     background-color: white;
 }
+
